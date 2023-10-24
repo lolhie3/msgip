@@ -5,7 +5,7 @@ MSGIP (message ip) is a program for text communication based on liblacewing
 - [x] Text chat (obviously)
 - [x] Select custom servers
 - [x] Built-in CLI server
-- [ ] Bot template & API (VERY SOON) ![](https://geps.dev/progress/33)
+- [ ] Bot template & API (VERY SOON) ![](https://geps.dev/progress/90)
 - [ ] Web version (NOT SO SOON) ![](https://geps.dev/progress/0)
 
 # Screenshots
