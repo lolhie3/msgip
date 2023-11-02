@@ -1,6 +1,11 @@
 # MSGIP - liblacewing chat program
 MSGIP (message ip) is a program for text communication based on liblacewing
 
+# NOTICE!!!
+This project has been discontinued. 
+There is still a small chance that allows me to reform this into another project,
+but I will never get back to this piece of s**tcode.
+
 # Features, to-do list & etc.
 - [x] Text chat (obviously)
 - [x] Select custom servers
